@@ -52,11 +52,11 @@ You will find `.env.example` files in each folder with dummy values — copy and
 ### 📂 Example (server/.env)
 ```
 
-DB\_HOST=localhost
-DB\_USER=root
-DB\_PASSWORD=your\_mysql\_password
-DB\_NAME=task\_db
-JWT\_SECRET=your\_jwt\_secret
+DB_HOST=localhost
+DB_USER=root
+DB_PASSWORD=your\_mysql\_password
+DB_NAME=task\_db
+JWT_SECRET=your\_jwt\_secret
 PORT=5000
 
 ````
